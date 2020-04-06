@@ -93,11 +93,10 @@ results = [0, 0, 0, 1]
 learn_rate = 0.1
 epochs = 1000
 network = NeuralNetwork()
-32035689+JakubSmarzewski@users.noreply.github.com
 network.train(data, results, learn_rate, epochs)
 
 
-
+32035689+JakubSmarzewski@users.noreply.github.com
 
 
 
