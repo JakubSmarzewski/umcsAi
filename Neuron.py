@@ -16,6 +16,7 @@ def mse_loss(y, y_pred):
 
 class NeuralNetwork:
     def __init__(self):
+        #miałem problem z numpy dlatego starałęm się znaleźć alternatywe
         self.w0 = (random.getrandbits(1))
         self.w1 = (random.getrandbits(1))
         self.w2 = (random.getrandbits(1))
